@@ -8,13 +8,16 @@ Il nostro Paese è noto a livello globale per i prodotti agroalimentari, fiore a
 | ------ | ------ | ------ |
 | Mipaaft | Ministero delle Politiche agricole |https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2090 |
 | DOOR| Dipartimento Agricolture and Rural Development| http://ec.europa.eu/agriculture/quality/door/list.html?locale=it |
+| Eurostat | https://ec.europa.eu/eurostat/web/agriculture/data/database |
 
 
 ## Visualizzazioni
 | File | Descrizione |
 | ------ | ------ |
 | Prodotti_DOP_IGP.xlsx | Lista Prodotti DOP, IGP, STG in Italia |
-| FoodPorn_Prodotti_EU.html | Mappa Prodotto DOP, IGP, STG in Europa |
+| FoodPorn_Prodotti_DOP.html | Mappa Prodotto DOP, IGP, STG in Europa |
+| FoodPorn_Produttori_BIO.html | Mappa Produttori BIO in Europa |
+| FoodPorn_Prodotti_PAT.html | Mappa Prodotti PAT in Italia |
 
 ## Configurazioni
 Queste istruzioni ti permetteranno di realizzare una copia del progetto in locale per eseguire il codice.
